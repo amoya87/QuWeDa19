@@ -8,16 +8,8 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
   
-  <artifactId>dynamics-query</artifactId>
+  <artifactId>dynamics-utils</artifactId>
   <packaging>jar</packaging>
-  <name>Project queryFeatures</name>
+  <name>Project utils</name>
 
-  <dependencies>
-  	<dependency>
-    <groupId>org.apache.jena</groupId>
-    <artifactId>apache-jena-libs</artifactId>
-    <type>pom</type>
-    <version>${jena.version}</version>
-  </dependency>
-  </dependencies>
 </project>
